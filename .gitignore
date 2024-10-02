@@ -25,3 +25,6 @@ dist-ssr
 
 # Added by @jhordyess, erase if you want1
 .devcontainer
+
+# Local Netlify folder
+.netlify
